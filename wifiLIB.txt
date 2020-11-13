@@ -1,0 +1,3 @@
+DezsiHome;ffffffff
+DHOTSpot;ffffffff
+JHOTSPOT;ffffffff
